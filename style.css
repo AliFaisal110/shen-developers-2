@@ -48,9 +48,13 @@ body {
 }
 
 .titleMiddle {
-    border: 2px solid red;
+   
     text-decoration: none;
-    margin-left: 450px;
+    display: block;
+    margin: auto auto auto 700px;
+    line-height: 3em;
+    font-size: x-large;
+    color: black;
 }
 
 .test {
