@@ -1,0 +1,125 @@
+body {
+    background: linear-gradient(to bottom right, white, grey);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.btn {
+    background-color: #f8f9f8 !important;
+    box-shadow: none !important;
+    border: 0px !important;
+    color: black !important;
+}
+
+
+/* .navbar-text {
+        text-align: justify;
+        width: 30;
+        color: black;
+    } */
+
+
+/* .navbar-text{
+
+        display: block;
+        margin: 0 auto;
+        color: black ;
+    } */
+
+.textcolor {
+    color: black !important;
+}
+
+.footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.image-center {
+    display: block;
+    margin: 130px auto 70px auto;
+    width: 250px;
+}
+
+.titleMiddle {
+    border: 2px solid red;
+    text-decoration: none;
+    margin-left: 450px;
+}
+
+.test {
+    text-align: center;
+}
+
+
+/* work 2 */
+
+.midMain {
+    width: 90%;
+    margin: 10px auto 10px auto;
+}
+
+.anchor {
+    text-decoration: none;
+    display: block;
+    line-height: 3em;
+    font-size: x-large;
+    color: black;
+}
+
+.left-col {
+    display: inline-block;
+    width: 25%;
+    margin-top: 0px;
+    line-height: 3em;
+}
+
+.right-col {
+    display: inline-block;
+    width: 15%;
+    position: absolute;
+    top: 8px;
+}
+
+.imgCart {
+    display: inline-block;
+    width: 90px;
+    margin-top: 40px;
+}
+
+.mainTwo {
+    width: 50%;
+    text-align: center;
+    margin-left: 270px;
+}
+
+.searchdiv {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.search {
+    text-decoration: underline overline;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.divone {
+    display: inline-block;
+}
+
+.btnthree {
+    position: relative;
+    left: 650px;
+}
+
+.btnfour {
+    position: relative;
+    left: 650px;
+}
